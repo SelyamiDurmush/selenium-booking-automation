@@ -1,0 +1,1 @@
+print("I wil print first from booking/__init__.py")
