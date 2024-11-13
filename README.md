@@ -53,5 +53,5 @@ Below is an overview of each module and its functionality:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/selenium-booking-automation.git
+   git clone https://github.com/SelyamiDurmush/selenium-booking-automation.git
    cd selenium-booking-automation
