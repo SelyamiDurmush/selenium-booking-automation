@@ -1,6 +1,6 @@
 # Selenium Booking Automation
 
-This project automates booking operations on a booking website using Selenium WebDriver. It features functionality to search for destinations, set travel dates, define the number of adults, filter results based on criteria, and generate reports. The project is designed to allow users to customize inputs through terminal prompts.
+This project automates booking operations on a booking website using Selenium WebDriver. It features functionality to change currency, search for destinations, set travel dates, define the number of adults, filter results based on criteria, and generate reports. The project is designed to allow users to customize inputs through terminal prompts.
 
 ## Project Overview
 
